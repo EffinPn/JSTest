@@ -38,7 +38,7 @@ body{
 }
 
 #presentacion{
-    background-color: blueviolet;
+    
     width: 40%;
     height: auto;
     margin-left: 2%;
@@ -47,8 +47,12 @@ body{
 }
 
 #pic{
-    background: linear-gradient(110deg, red 50%, transparent 50%);
+    
     width: 50%;
     height: 30%;
     margin-left: 3%;
+}
+
+#main{
+    background: linear-gradient(110deg, red 50%, transparent 50%);
 }
